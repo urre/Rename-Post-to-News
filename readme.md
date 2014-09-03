@@ -4,8 +4,8 @@ Sometimes you just need a post type to be called news, but maybe you dont want/c
 
 ![Before and after](screenshot.jpg?raw=true "Before and after")
 
-## Install
-1. Install plugin from the WordPress plugin directory (hold on, out soon..)
+## Install (coming soon)
+1. Install plugin from the WordPress plugin directory (wait for it...)
 
 ## Install manually
 1. Download [zip](https://github.com/urre/rename-post-to-news/archive/master.zip) and extract

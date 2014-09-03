@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Rename Post to News
-Plugin URI: labs.urre.me/renameposttonews
+Plugin URI: https://github.com/urre/Rename-Post-to-New
 Description: Rename built in Post type (Post) to "News". Renames menu items and labels and replaces admin menu icon with a pencil icon instead of the standard pin.
 Version: 0.1
 Author: Urban Sanden
@@ -28,6 +28,7 @@ class RenamePostToNews {
     }
 
     public function plugin_textdomain() {
+
         $domain = 'renameposttonews';
         $locale = apply_filters( 'plugin_locale', get_locale(), $domain );
         load_textdomain( $domain, WP_LANG_DIR.'/'.$domain.'/'.$domain.'-'.$locale.'.mo' );
@@ -72,8 +73,6 @@ class RenamePostToNews {
             wp_enqueue_style( 'renameposttonews-plugin-styles', plugins_url( 'rename-post-to-news/css/rename-post-to-news.admin.css' ) );
         }
     }
-
-
 }
 
 $rptn = new RenamePostToNews();
