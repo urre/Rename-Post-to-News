@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rename Posts to News\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-29 13:22+0100\n"
+"PO-Revision-Date: 2014-07-29 13:25+0100\n"
+"Last-Translator: Urban Sanden <hej@urre.me>\n"
+"Language-Team: Urban Sanden <hej@urre.me>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../rename-posts-to-news.php:34 ../rename-posts-to-news.php:35
+#: ../rename-posts-to-news.php:46 ../rename-posts-to-news.php:47
+msgid "News"
+msgstr "Nyheter"
+
+#: ../rename-posts-to-news.php:36 ../rename-posts-to-news.php:48
+#: ../rename-posts-to-news.php:49
+msgid "Add new post"
+msgstr "Lägg till nyhet"
+
+#: ../rename-posts-to-news.php:37
+msgid "Tags"
+msgstr "Taggar"
+
+#: ../rename-posts-to-news.php:50
+msgid "Edit new post"
+msgstr "Redigera nyhet"
+
+#: ../rename-posts-to-news.php:51
+msgid "New post"
+msgstr "Ny nyhet"
+
+#: ../rename-posts-to-news.php:52
+msgid "Show item"
+msgstr "Visa nyhet"
+
+#: ../rename-posts-to-news.php:53
+msgid "Search post"
+msgstr "Sök nyhet"
+
+#: ../rename-posts-to-news.php:54 ../rename-posts-to-news.php:65
+msgid "No posts found"
+msgstr "Inga nyheter hittades"
+
+#: ../rename-posts-to-news.php:55
+msgid "New posts found in trash"
+msgstr "Inga nyheter hittades i papperskorgen"
+
+#~ msgid "Add news article"
+#~ msgstr "Lägg till nyhet"
+
+#~ msgid "Nyheter"
+#~ msgstr "News"
+
+#~ msgid "Update"
+#~ msgstr "Uppdatera"
+
+#~ msgid "Publish"
+#~ msgstr "Publicera"
+
+#~ msgid "Publishing..."
+#~ msgstr "Publicerar..."
+
+#~ msgid "Updating..."
+#~ msgstr "Uppdaterar..."
+
+#~ msgid "To top"
+#~ msgstr "Till toppen"
+
+#~ msgid "View"
+#~ msgstr "Visa"
+
+#~ msgid "Hide"
+#~ msgstr "Göm"
+
+#~ msgid "Set featured image"
+#~ msgstr "Ange utvald bild"
+
+#~ msgid "Update/publish first"
+#~ msgstr "Uppdatera först"
+
+#~ msgid "Remove attachment"
+#~ msgstr "Ta bort bilaga"
+
+#~ msgid "files attached"
+#~ msgstr "bilagor"
+
+#~ msgid "No album cover(s) were found"
+#~ msgstr "Inga omslag hittades"
+
+#~ msgid "Try again"
+#~ msgstr "Försök igen"
+
+#~ msgid "Save post to change/remove featured image"
+#~ msgstr "Spara för att ändra/ta bort utvald bild"
+
+#~ msgid "Album cover finder"
+#~ msgstr "Sök skivomslag"
+
+#~ msgid "Search album covers"
+#~ msgstr "Sök skivomslag"
+
+#~ msgid "Artist"
+#~ msgstr "Artist"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Clear"
+#~ msgstr "Rensa"
+
+#~ msgid "Insert in editor"
+#~ msgstr "Infoga i innehåll"
+
+#~ msgid "Attachments"
+#~ msgstr "Bilagor"
