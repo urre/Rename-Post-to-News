@@ -2,10 +2,10 @@
 
 Sometimes you just need a post type to be called news, but maybe you dont want/can't/are to lazy to create a separate post type for this. This little plugin renames the build in post type (Post) to News. It also changes all the labels and replaces the pin icon with a pencil icon.
 
-![Before and after](screenshot.jpg?raw=true "Before and after")
+![Before and after](screenshot-1.jpg?raw=true "Before and after")
 
-## Install (coming soon)
-1. Install plugin from the WordPress plugin directory (wait for it...)
+## Install
+1. Install plugin from the [WordPress plugin directory](https://wordpress.org/plugins/rename-post-to-news/)
 
 ## Install manually
 1. Download [zip](https://github.com/urre/rename-post-to-news/archive/master.zip) and extract
@@ -32,4 +32,4 @@ Yes, just use the standard permalink settings, like:
 
 ## Changelog
 
-0.1 First version released
+1.0 First version released
