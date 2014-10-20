@@ -33,4 +33,5 @@ Yes, just use the standard permalink settings, like:
 
 ## Changelog
 
-1.0 First version released
++ 1.1 Added translation for the admin bar menu item
++ 1.0 First version released
