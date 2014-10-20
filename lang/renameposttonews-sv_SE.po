@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rename Posts to News\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-29 13:22+0100\n"
-"PO-Revision-Date: 2014-07-29 13:25+0100\n"
+"POT-Creation-Date: 2014-10-20 20:38+0100\n"
+"PO-Revision-Date: 2014-10-20 20:38+0100\n"
 "Last-Translator: Urban Sanden <hej@urre.me>\n"
 "Language-Team: Urban Sanden <hej@urre.me>\n"
 "Language: sv_SE\n"
@@ -13,46 +13,50 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.6.7\n"
+"X-Generator: Poedit 1.6.10\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../rename-posts-to-news.php:34 ../rename-posts-to-news.php:35
-#: ../rename-posts-to-news.php:46 ../rename-posts-to-news.php:47
+#: ../rename-post-to-news.php:59 ../rename-post-to-news.php:60
+#: ../rename-post-to-news.php:72 ../rename-post-to-news.php:73
 msgid "News"
 msgstr "Nyheter"
 
-#: ../rename-posts-to-news.php:36 ../rename-posts-to-news.php:48
-#: ../rename-posts-to-news.php:49
+#: ../rename-post-to-news.php:61 ../rename-post-to-news.php:74
+#: ../rename-post-to-news.php:75
 msgid "Add new post"
 msgstr "Lägg till nyhet"
 
-#: ../rename-posts-to-news.php:37
+#: ../rename-post-to-news.php:62
 msgid "Tags"
 msgstr "Taggar"
 
-#: ../rename-posts-to-news.php:50
+#: ../rename-post-to-news.php:76
 msgid "Edit new post"
 msgstr "Redigera nyhet"
 
-#: ../rename-posts-to-news.php:51
+#: ../rename-post-to-news.php:77
 msgid "New post"
 msgstr "Ny nyhet"
 
-#: ../rename-posts-to-news.php:52
+#: ../rename-post-to-news.php:78
 msgid "Show item"
 msgstr "Visa nyhet"
 
-#: ../rename-posts-to-news.php:53
+#: ../rename-post-to-news.php:79
 msgid "Search post"
 msgstr "Sök nyhet"
 
-#: ../rename-posts-to-news.php:54 ../rename-posts-to-news.php:65
+#: ../rename-post-to-news.php:80
 msgid "No posts found"
 msgstr "Inga nyheter hittades"
 
-#: ../rename-posts-to-news.php:55
+#: ../rename-post-to-news.php:81
 msgid "New posts found in trash"
 msgstr "Inga nyheter hittades i papperskorgen"
+
+#: ../rename-post-to-news.php:82
+msgid "Post"
+msgstr "Nyhet"
 
 #~ msgid "Add news article"
 #~ msgstr "Lägg till nyhet"

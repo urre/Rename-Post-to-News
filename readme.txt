@@ -4,7 +4,7 @@ Donate link: http://urre.me/donate
 Tags: news, posts
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 
 Renames the build in post type Post to News
 
@@ -36,6 +36,9 @@ This plugin is available in the following languages:
 * Swedish
 
 == Changelog ==
+
+= 1.1 =
+Added translation for admin bar menu item
 
 = 1.0 =
 * First public version. It works!
