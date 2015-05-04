@@ -3,8 +3,8 @@ Contributors: urre
 Donate link: http://urre.me/donate
 Tags: news, posts
 Requires at least: 3.0
-Tested up to: 4.2
-Stable tag: 1.1
+Tested up to: 4.2.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,9 +35,13 @@ Contact me at hej@urre.me or at https://twitter.com/urre and hopefully I can do 
 This plugin is available in the following languages:
 
 * English
+* Catalan
 * Swedish
 
 == Changelog ==
+
+= 1.1.1 =
+Added translations for Catalan
 
 = 1.1 =
 Added translation for admin bar menu item

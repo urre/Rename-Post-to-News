@@ -22,6 +22,7 @@ Sometimes you just need a post type to be called news, but maybe you dont want/c
 This plugin is available in the following languages:
 
 + English
++ Catalan
 + Swedish
 
 ## FAQ
@@ -33,5 +34,6 @@ Yes, just use the standard permalink settings, like:
 
 ## Changelog
 
++ 1.1.1 Added translations for Catalan
 + 1.1 Added translation for the admin bar menu item
 + 1.0 First version released
