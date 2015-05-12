@@ -34,7 +34,8 @@ Yes, just use the standard permalink settings, like:
 
 ## Changelog
 
-+ 1.1.2 Added missing translation files for Catalan
-+ 1.1.1 Added translations for Catalan
++ 1.1.3 Added Spanish (es_ES) translations
++ 1.1.2 Fixed missing translation files for Catalan
++ 1.1.1 Added Catalan (ca_CA) translations
 + 1.1 Added translation for the admin bar menu item
 + 1.0 First version released
