@@ -3,16 +3,16 @@ Contributors: urre
 Donate link: https://www.paypal.me/urbansanden
 Tags: news, posts
 Requires at least: 3.0
-Tested up to: 4.6.1
+Tested up to: 5.4
 Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Renames the build in post type Post to News
+Renames the built in post type Post to News
 
 == Description ==
 
-Sometimes you just need a post type to be called news, but maybe you dont want/can't/are to lazy to create a separate post type for this. This little plugin renames the build in post type (Post) to News. It also changes all the labels and replaces the pin icon with a pencil icon.
+Sometimes you just need a post type to be called news, but maybe you dont want/can't/are to lazy to create a separate post type for this. This little plugin renames the built in post type (Post) to News. It also changes all the labels and replaces the pin icon with a pencil icon.
 
 * [Github](https://github.com/urre/rename-post-to-news)
 
